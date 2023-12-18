@@ -1,5 +1,5 @@
 <h1 align="center">
-  Box Natalina
+  Box Misteriosa do Papai Noel
 </h1>
 
 <p align="center">
@@ -23,10 +23,11 @@ Neste tutorial, vamos criar o site oficial do Papai Noel utilizando _HTML_, _CSS
 - [x] Uso semântico do HTML
 - [x] Váriaveis do css no `:root`
 - [x] Animações com a biblioteca [AOS](https://michalsnik.github.io/aos/)
+- [x] Animações com a biblioteca [particles.js](https://particles.js.org/)
 - [x] Uso do CSS Flexbox
 - [x] Efeitos com a propriedade `transform` do css
 - [x] Manipulação de arquivos de audio
-- [x] Animações com a biblioteca [particles.js](https://particles.js.org/)
+- [x] Responsividade
 
 
 ## 📺 Tutorial no Youtube
