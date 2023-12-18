@@ -32,6 +32,6 @@ Neste tutorial, vamos criar o site oficial do Papai Noel utilizando _HTML_, _CSS
 
 ## 📺 Tutorial no Youtube
 
-<a href="https://www.youtube.com/watch?v=pb4lZLLObUM" target="_blank">
- <img src="https://img.youtube.com/vi/pb4lZLLObUM/maxresdefault.jpg" width="100%" height="auto" />
+<a href="https://www.youtube.com/watch?v=tXUUprIwtms" target="_blank">
+ <img src="https://img.youtube.com/vi/tXUUprIwtms/maxresdefault.jpg" width="100%" height="auto" />
 </a>
