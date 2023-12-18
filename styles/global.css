@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --text: #f1f1f1;
+  --red: #C51212;
+  --red-dark: #8A010B;
+
+  --shadow-image: drop-shadow(rgba(0, 0, 0, 0.35) 0px 3px 8px);
+  --background-body: linear-gradient(125deg, var(--red-dark) 36%, var(--red) 36%);
+}
+
+body, button, a {
+  color: var(--text);
+  font: 400 1rem "Montserrat", sans-serif;
+}
